@@ -1,4 +1,4 @@
-# flutter_app_2
+# Bill_Split_App
 
 A new Flutter project.
 
